@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Management System",
+  "description": "A comprehensive system for managing patients, doctors, and appointments with dedicated dashboards.",
+  "requestFramePermissions": []
+}
